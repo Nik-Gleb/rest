@@ -1,7 +1,6 @@
 /**
+ * Some comment 1
  * 
- */
-/**
  * @author Глеб
  *
  */
