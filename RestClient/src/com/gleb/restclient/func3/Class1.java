@@ -1,7 +1,7 @@
 package com.gleb.restclient.func3;
 
 /**
- * Комментарии к классу 1.
+ * Комментарии к классу 2.
  * 
  * @author Глеб
  */
