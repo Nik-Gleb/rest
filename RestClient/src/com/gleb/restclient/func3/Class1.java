@@ -6,5 +6,5 @@ package com.gleb.restclient.func3;
  * @author Глеб
  */
 public final class Class1 {
-	private int value = 0;
+	private int value = 1;
 }
